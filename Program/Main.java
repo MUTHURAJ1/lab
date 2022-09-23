@@ -1,3 +1,8 @@
+/*@author: Muthuraj T
+Date : 28/07/2022
+Title : Blood Donor Detail Program
+Question : list out the blood donors  using inheritance or interface 
+*/
 package Eboxex1;
 
 import java.util.Scanner;

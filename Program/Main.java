@@ -1,5 +1,5 @@
 /*@author: Muthuraj T
-Date : 28/07/2022
+Date : 23/09/2022
 Title : Blood Donor Detail Program
 Question : list out the blood donors  using inheritance or interface 
 */
